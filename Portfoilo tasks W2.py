@@ -1,6 +1,6 @@
 # task 1
-UserName = input("Please enter your name: ")
-print("Hello " + UserName + "nice to meet you ")
+NameOfUser = input("Please enter your name: ")
+print("Hello " + NameOfUser + "nice to meet you ")
 
 # task 2
 celsuis = (int(input("Please enter temp in celsius ")))
@@ -21,3 +21,5 @@ AmountOfSweats = int(input("how many sweats is there: "))
 AmountForEachStudent = AmountOfSweats // AmountOfStudents
 LeftOver = AmountOfSweats % AmountOfStudents
 print("Each students will get ", AmountForEachStudent ,"\n There will also have ",LeftOver," left over")
+
+#This is a test to check if a push worked on my mac
