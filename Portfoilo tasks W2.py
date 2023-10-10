@@ -22,4 +22,4 @@ AmountForEachStudent = AmountOfSweats // AmountOfStudents
 LeftOver = AmountOfSweats % AmountOfStudents
 print("Each students will get ", AmountForEachStudent ,"\n There will also have ",LeftOver," left over")
 
-#This is a test to check if a push worked on my mac, test 2 with commands
+#This is a test to check if a push worked on my mac, test 2 with commands 2nd test
